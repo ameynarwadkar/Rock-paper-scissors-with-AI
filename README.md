@@ -9,7 +9,7 @@ To use and test the project, follow these steps:
 1. Clone this repository to your local machine.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/amey-narwadkar-4869/Rock-paper-scissors-with-AI.git
 ```
 
 2. Navigate to the project directory.
